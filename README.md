@@ -5,6 +5,10 @@ I've been writing code since fourth grade. I'm fluent in a variety of languages,
 like **JS/TS**, **HTML/CSS**, **English**, and **Python**, and I also know some
 **PHP**, **Java**, **C**, and **Rust**.
 
+I can also use a good amount of media creation programs, like **Photoshop**,
+**GIMP**, **Illustrator**, **Premiere**, **Kdenlive**, **Audacity**, and
+**Audition**.
+
 I also daily-drive Linux on all of my computers, and have experience in both
 arch-based and debian-based distros.
 
